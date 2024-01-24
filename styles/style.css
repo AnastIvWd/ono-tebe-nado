@@ -11,7 +11,7 @@
 
 .header__links-list {
   display: grid;
-  grid-template-columns: 83.5px 168px 113px;
+  grid-template-columns: 83.5px 168px 115px;
   gap: 15px;
   padding: 41px 36px 37px 26.3px;
   justify-content: end;
